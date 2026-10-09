@@ -1,0 +1,20 @@
+# build output
+bin/
+obj/
+.vs/
+*.user
+# python
+__pycache__/
+*.pyc
+.venv/
+# derived data: bundles, caches, recordings are rebuilt from their source, never committed
+data/
+media-cache/
+recordings/
+*.cklivox
+# TouchDesigner autosaves
+Backup/
+*.toe.bak
+# local
+.env
+*.log

@@ -1,0 +1,6 @@
+* text=auto
+*.toe binary
+*.tox binary
+*.png binary
+*.jpg binary
+*.onnx binary
