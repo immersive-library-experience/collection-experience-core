@@ -1,9 +1,11 @@
 # collection-experience-core
 
 The shared, reusable components of two public installations that open up a collection as an interactive
-cloud or timeline: the **Collection Wall OpenStack 2.0** in the TU Delft Library and **Van muziekbibliotheek
-naar publieksbeleving** in the Collectiegebouw of Beeld & Geluid. Both projects build on this one open
-framework; a new collection is a new profile and data bundle, not new software.
+cloud or timeline: the **Collection Wall OpenStack 2.0** in the
+[TU Delft Library](https://www.tudelft.nl/en/library/visit/relax-and-get-inspired/collection-wall-at-the-tu-delft-library)
+and **Van muziekbibliotheek naar publieksbeleving** in [Fonos](https://www.beeldengeluid.nl/fonos), the new
+music location of Beeld & Geluid in Hilversum. Both projects build on this one open framework; a new
+collection is a new profile and data bundle, not new software.
 
 > **Status:** under construction. The components are developed in TangibleApp's workshop and published here
 > regularly; the first publication follows shortly.
